@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "title": "Post1",
+      "body": "Something is going posts",
+      "userId": 23,
+      "id": 1
+    },
+    {
+      "title": "Post2",
+      "body": "Something dasd is gdsd oing posts",
+      "userId": 23,
+      "id": 2
+    },
+    {
+      "title": "",
+      "body": "",
+      "userId": 674.8552093749009,
+      "id": 254.28723190292257
+    },
+    {
+      "title": "dasd",
+      "body": "dasd",
+      "userId": 920.055335601091,
+      "id": 767.2415153990427
+    },
+    {
+      "title": "dasd",
+      "body": "dasdad",
+      "userId": 916.8329230078966,
+      "id": 715.6627057407521
+    },
+    {
+      "title": "dasd",
+      "body": "asdd",
+      "userId": 534.6149440419742,
+      "id": 102.94248520584671
+    }
+  ]
+}
